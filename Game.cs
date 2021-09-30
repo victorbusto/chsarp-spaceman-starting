@@ -35,11 +35,10 @@ namespace Spaceman
         }
 
         public void Display() {
-            Ufo spaceship = new Ufo();
-            Console.WriteLine(spaceship.Stringify());
+            Console.WriteLine(ufo.Stringify());
 
             Console.WriteLine("Current word: "+CurrentWord);
-            Console.WriteLine("Number of guesses: "+NumberOfGuesses);
+            Console.WriteLine("Number of guesses: "+NumberOfGuesses+ "/3");
         }
 
         public void Ask() {
@@ -55,8 +54,8 @@ namespace Spaceman
                         }
                     }
                 } else {
-                    Console.WriteLine("Wrong guess! Now the human is closest to the alien ship :'(");
-                    numberOfGuesses++;
+                    Console.WriteLine("Wrong guess! The human was abducted by the alien ship :'(");
+                    NumberOfGuesses++;
                     ufo.AddPart();
                 }
                 
