@@ -11,7 +11,7 @@ namespace Spaceman
       do {
         game.Display();
         game.Ask();
-      } while (!game.DidWin() || !game.DidLose());
+      } while (!(game.DidWin() || game.DidLose()));
 
       Console.WriteLine("You {0}", game.DidWin() ? "win" : "lose");
     }
