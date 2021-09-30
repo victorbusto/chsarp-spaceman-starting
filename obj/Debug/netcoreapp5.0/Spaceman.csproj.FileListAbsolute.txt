@@ -1,0 +1,16 @@
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\bin\Debug\netcoreapp5.0\Spaceman.exe
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\bin\Debug\netcoreapp5.0\Spaceman.deps.json
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\bin\Debug\netcoreapp5.0\Spaceman.runtimeconfig.json
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\bin\Debug\netcoreapp5.0\Spaceman.runtimeconfig.dev.json
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\bin\Debug\netcoreapp5.0\Spaceman.dll
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\bin\Debug\netcoreapp5.0\ref\Spaceman.dll
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\bin\Debug\netcoreapp5.0\Spaceman.pdb
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\Spaceman.csproj.AssemblyReference.cache
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\Spaceman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\Spaceman.AssemblyInfoInputs.cache
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\Spaceman.AssemblyInfo.cs
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\Spaceman.csproj.CoreCompileInputs.cache
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\Spaceman.dll
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\ref\Spaceman.dll
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\Spaceman.pdb
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\csharp-spaceman-starting\obj\Debug\netcoreapp5.0\Spaceman.genruntimeconfig.cache
